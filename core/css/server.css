@@ -48,7 +48,10 @@
 #body-login #alternative-logins li a {
 	background-color: transparent !important;
 }
-
+#theming-preview-logo, #header .logo {
+	background-image: url(../img/logo-viettel.png) !important;
+}
 #app-dashboard, #body-login {
 	background-image: url(../img/envelope-blue.jpg) !important;
+	background-size: cover !important;
 }
